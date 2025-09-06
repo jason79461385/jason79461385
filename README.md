@@ -1,5 +1,4 @@
 ## Hi, You can call me Jason
-- Love to play some FPS game, like: Valorant or APEX.<br>
 
 ## 🐍 Snake
 <p align="center">
